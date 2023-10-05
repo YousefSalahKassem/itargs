@@ -12,7 +12,9 @@ Simple Task Using MVVM architecture and Riverpod state management.
 
 4: Multi Languages.
 
-5: Unit and Widget testing.
+5: Responsive.
+
+6: Unit and Widget testing.
 
 
 ## Folder Structure
