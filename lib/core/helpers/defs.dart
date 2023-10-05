@@ -1,0 +1,1 @@
+typedef JsonMap<V extends dynamic> = Map<String, V>;

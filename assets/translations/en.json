@@ -1,0 +1,19 @@
+{
+  "tabs": {
+    "home": "Home",
+    "more": "More"
+  },
+  "screenTitle": {
+    "home": "This is App",
+    "more": "More"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Dark Mode",
+    "language": "Arabic Language"
+  },
+  "home": {
+    "top_likes": "Top Likes",
+    "play": "Play This"
+  }
+}
