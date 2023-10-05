@@ -1,16 +1,20 @@
 # itargs
 
-A new Flutter project.
+Simple Task Using MVVM architecture and Riverpod state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1: Offline Audio Player.
 
-A few resources to get you started if this is your first Flutter project:
+2: Routing System Navigation by Name using go routes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3: Multi themes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4: Multi Languages.
+
+5: Unit and Widget testing.
+
+
+## Folder Structure
+
+![folder](https://github.com/YousefSalahKassem/itargs/assets/91211054/242d8c61-909e-4274-8a91-34f9deb609ce)
